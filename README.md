@@ -7,7 +7,7 @@
 
 O projeto foi desenvolvido durante o 
 [Curso de Java - Programação Orientada a Objetos](https://www.udemy.com/course/java-curso-completo/), desenvolvido pela [DevSuperior](https://devsuperior.com.br/). Um banco de dados
-foi criado em um servidor MySQL contendo as tabelas Department e Seller, com dados de departamentos e vendedores respectivamente. A aplicação desenvovlida é uma interface gráfica
+foi criado em um servidor MySQL contendo as tabelas Department e Seller, com dados de departamentos e vendedores respectivamente. A aplicação desenvolvida é uma interface gráfica
 para realizar o CRUD, logo ela permite a criação, visualização, edição e deleção dos dados.
 
 ## Objetivos Gerais
