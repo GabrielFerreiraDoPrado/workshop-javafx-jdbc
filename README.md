@@ -44,4 +44,4 @@ para realizar o CRUD, logo ela permite a criação, visualização, edição e d
 
 # Autor
 
-[Meu Perfil no LinkedIn](https://www.linkedin.com/in/gabriel-ferreira-do-prado-25863919a/) 
+[Meu Perfil](https://www.linkedin.com/in/gabriel-ferreira-do-prado/) no LinkedIn
